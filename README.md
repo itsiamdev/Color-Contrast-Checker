@@ -11,7 +11,7 @@ This tool helps designers and developers ensure their color combinations meet WC
 - 📱 Responsive design
 
 ## Live Demo
-Check it out here: [https://iam269.github.io/Color-Contrast-Checker/](https://iam269.github.io/Color-Contrast-Checker/)
+Check it out here: [https://itsiamdev.github.io/Color-Contrast-Checker/](https://itsiamdev.github.io/Color-Contrast-Checker/)
 
 ## Usage
 1. Open `index.html` in your browser
